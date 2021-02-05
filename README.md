@@ -1,1 +1,2 @@
-# c-25-inhritance
+# angryBirdsStage2StudentActivity
+Student Activity Link for Angry Birds Stage 2
